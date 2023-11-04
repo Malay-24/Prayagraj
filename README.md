@@ -19,8 +19,3 @@ DEPLOYED LINK :- https://frooti-kappa.vercel.app/
 npm i @create-react-app gsap  react-icons react-icons  
 ```
 
- <h1  align='center'>HOME PAGE </h1>
-  
-
-
-![Screenshot (369)](https://user-images.githubusercontent.com/112796001/218478151-3d5cc131-5526-42a8-b0b7-d260cc28b3cb.png)
