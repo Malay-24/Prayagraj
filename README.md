@@ -3,12 +3,6 @@ PROJECT NAME :- Prayagraj-Export
 
 DEPLOYED LINK :- https://frooti-kappa.vercel.app/
 
-
-
-
-
-<p><img src=https://seeklogo.com/images/A/amazon-logo-3F973DA9CA-seeklogo.com.png /> </p>
-
 <h2>Tech Stacks</h2>
 <p><img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png?w=256&f=avif" width='80' alt="HTML" /> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/css-alt-3521367-2944811.png?w=256&f=avif" width='80' alt="CSS" />
