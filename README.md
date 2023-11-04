@@ -22,4 +22,4 @@ npm i @create-react-app gsap  react-icons react-icons
   
 
 
-![Screenshot (369)](https://drive.google.com/file/d/1VUhTT9Z9ix3vWg72Gg252Jtr-SJBmtDA/view?usp=sharing)
+![Screenshot (369)](https://ibb.co/nLNRLDs)
